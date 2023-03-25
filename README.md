@@ -8,7 +8,7 @@ _discordサーバーにchatGPTbotを追加する簡単な例_
 4. Create `.env` file and add your API key and token.</br>
 ```I have defined the key names as OPEN_AI_API_KEY and DISCORD_BOT_TOKEN respectively.```<br/>
 5. Run `python3 or python run.py`
-6. Try chatting on your server by using /ai, /chatgpt, or /bot commands.
+6. Try chatting on your server by using `/ai`, `/chatgpt`, or `/bot` commands.
 
 
 参考<br/>
