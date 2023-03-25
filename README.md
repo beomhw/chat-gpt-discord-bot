@@ -1,6 +1,4 @@
 # chat-gpt-discord-bot
-
----
 _discordサーバーにchatGPTbotを追加する簡単な例_
 
 ### Quick Start
