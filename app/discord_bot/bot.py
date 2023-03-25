@@ -5,7 +5,7 @@ from app.open_ai.chat_gpt import chatgpt_response
 
 load_dotenv()
 
-discord_token = os.getenv('DISCORD_TOKEN')
+discord_bot_token = os.getenv('DISCORD_BOT_TOKEN')
 
 class MyClient(discord.Client):
     async def on_ready(self):
